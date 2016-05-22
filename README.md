@@ -86,8 +86,7 @@ En ejecución
 
 3. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
 
-4. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 Mill.€
-Datos
+4. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
 
 5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
 Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
