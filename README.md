@@ -1,4 +1,4 @@
-## Proyecto 000. Inversal Community Ethics
+## Proyecto: Inversal Community Ethics
 
 **Responsables del proyecto**: 
 
@@ -61,7 +61,9 @@ En ejecución
 
 .4.2. Reglamento 100%
 
-`.4.3. Actas Fundacionales 50%`
+.4.3. Actas Fundacionales 100%
+
+.4.4. Registro de socios 10% 
 
 `.5. Alta notarial e Inscripcion RA 10%`
 
