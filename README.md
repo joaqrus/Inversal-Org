@@ -1,4 +1,4 @@
-## Inversal Community Ethics
+## Proyecto 000. Inversal Community Ethics
 
 **Responsables del proyecto**: 
 
@@ -7,7 +7,7 @@ Abueesp, Jmiehau
 
 **Breve descripción del proyecto**:
 
-Proyecto 000. Elaboracion de una arquitectura juridica y organizacional minima para Inversal.
+Elaboracion de una arquitectura juridica y organizacional minima para Inversal.
 
 **Estado del proyecto**: 
 
