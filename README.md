@@ -90,14 +90,14 @@ En ejecución
 Datos
 
 5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
-Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos personales. Cks & LSSI
+Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
 
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
-Un ordenador y muchas ganas de querer escribir y leer codigo en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo minimo donde podamos interactuar maquinas de estados infinitos llenas de bugs y conectarlo, en mitad de produccion, a un sistema principal de la red el cual utiliza una gran variedad de protocolos que pueden llegar a tener mas de 100 anos de antiguedad (lol).
+`Un ordenador, y muchas ganas de querer escribir y leer código en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo mínimo donde podamos interactuar máquinas de estados infinitos llenas de bugs y conectarlo, en mitad de producción, a un sistema principal de la red el cual utiliza una gran variedad de protocolos que pueden llegar a tener más de 100 años de antiguedad (LoL).`
 
-Hablando en serio, cualquier contribución positiva es bienvenida. Puedes solicitar hacer un `commit` y exponer tus argumentos en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/) o a [esta otra](https://guides.github.com/features/mastering-markdown/). Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. ¡Te esperamos!
+Cualquier contribución positiva es bienvenida. Puedes solicitar hacer un `commit` y exponer tus argumentos en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/) o a [esta otra](https://guides.github.com/features/mastering-markdown/). Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. ¡Te esperamos!
 
 **Listado de participantes**:
 
