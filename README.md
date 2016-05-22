@@ -78,20 +78,18 @@ En ejecución
 
 **_Hitos que hacen falta_**
 
-0. Listado de socios fundadores AG. Listado de administradores por area. JD. Participantes.
+0. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
 
-1. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
+1. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse
 
-2. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse
+2. Cita con el notario. Cita con la gerencia.
 
-3. Cita con el notario. Cita con la gerencia.
+3. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
 
-4. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
-
-5. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 Mill.€
+4. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 Mill.€
 Datos
 
-6. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
+5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
 Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos personales. Cks & LSSI
 
 
