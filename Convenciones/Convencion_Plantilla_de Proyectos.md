@@ -7,7 +7,7 @@ Personas que se responsabilizan de la supervisión del proyecto. ¡Lee la Direct
 
 **Breve descripción del proyecto**:
 
-Tipología, naturaleza, lugares, fechas, esquema de las actividades, posibles riesgos y medidas de seguridad. Esto no sólo permite proteger la vida y la salud de quienes participan, sino que también lo hace auditable y facilita poder compartir el proyecto y replicarlo, así como ayudar a mejorarlo y adaptarlo dentro de Inversal.
+Tipología, naturaleza, lugares, fechas, esquema de las actividades, posibles riesgos y medidas de seguridad. Esto no sólo permite proteger la vida y la salud de quienes participan, sino que también lo hace auditable y facilita poder compartir el proyecto y replicarlo, así como ayudar a mejorarlo y adaptarlo dentro de Inversal. Utiliza palabras sencillas y claras, si utilizas *fancy words* perderás muchas veces la oportunidad de que otros puedan entenderte y ayudarte, especialmente aquellos que provengan de otras disciplinas.
 
 
 **Estado del proyecto**: 
