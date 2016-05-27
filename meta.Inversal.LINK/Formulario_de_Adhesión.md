@@ -56,7 +56,7 @@ Para la resolución de los conflictos que pudieran surgir como consecuencia del 
 
 **OCTAVO**.- Declaración: 
 
-De esta forma, reconociendo tener capacidad para obligarse, tanto para el pago de las cuotas como para el cumplimiento de los términos de Inversal, que se lleva a efecto el presente contrato social en cumplimiento de lo previsto en el artículo 32 de los Estatutos, solicita de forma libre y razonada su admisión. Leído que ha sido el presente contrato por las partes, que se extiende por duplicado, lo firman en prueba de conformidad.
+De esta forma, reconociendo tener capacidad para obligarse, tanto para el pago de las cuotas como para el cumplimiento de los términos de Inversal, que se lleva a efecto el presente contrato social en cumplimiento de lo previsto en el artículo 32 de los Estatutos, solicita de forma libre y razonada su adhesión. Leído que ha sido el presente contrato por las partes, que se extiende por duplicado, lo firman en prueba de conformidad.
 
 
 En ......................................... a ........... de .......................... de ............
