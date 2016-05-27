@@ -86,14 +86,19 @@ En ejecución
 
 3. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
 
-4. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
+4. Terminas documentos que faltan.
 
 5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
 Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
 
 6. Firma de actas
 
-7. Automatización del control de accesos
+7. Automatización del control de accesos.
+ 
+8. Dónde esta el formulario de Slack? Pegarlo en Bienvenida, Directiva de DP, Directiva de Participacion, Pilares, PBF. Concretar un dia a la semana y hora a la que se acuda regularmente para atención al público y general. Email de inversal.com o protonmail.com con auto-resend a socios. Línea telefónica en la nave?
+
+9. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
+
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
