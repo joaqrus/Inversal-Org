@@ -80,24 +80,18 @@ En ejecución
 
 0. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
 
-1. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse
+1. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse. Dónde esta el formulario de Slack? Pegarlo en Bienvenida, Directiva de DP, Directiva de Participacion, Pilares, PBF. Concretar un dia a la semana y hora a la que se acuda regularmente para atención al público y general. Email de inversal.com o protonmail.com con auto-resend a socios. Línea telefónica en la nave?
 
-2. Cita con el notario. Cita con la gerencia.
+2. Automatización del control de accesos. 
 
 3. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
 
-4. Terminas documentos que faltan.
+4. Terminar los documentos que faltan. Firma de actas. Cita con el notario. Cita con la gerencia.
 
 5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
 Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
 
-6. Firma de actas
-
-7. Automatización del control de accesos.
- 
-8. Dónde esta el formulario de Slack? Pegarlo en Bienvenida, Directiva de DP, Directiva de Participacion, Pilares, PBF. Concretar un dia a la semana y hora a la que se acuda regularmente para atención al público y general. Email de inversal.com o protonmail.com con auto-resend a socios. Línea telefónica en la nave?
-
-9. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
+6. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
 
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
