@@ -13,26 +13,28 @@ Clara
 Javier, Marta
 
 
-Funciones especiales:
+**Funciones especiales:**
 
 Gestión de accesos a la zona maker y al listado de herramientas peligrosas.
 
  
-Requisitos de votación:  
+**Requisitos de votación:  **
 Estar al corriente del pago de las contribuciones, y llevar al menos 3 meses en Inversal o haber realizado al menos 1 proyecto.
 
-Periodo de votación: 
+**Periodo de votación: **
 
 Por lo general, dos semanas.
 
-Canales a través de los cuales se ha notificado:
+**Canales a través de los cuales se ha notificado:**
 
 Por ejemplo el canal general de Slack, de Twitter o de una newsletter.
 
 
-Lugar donde se lleva a cabo el debate: 
+**Lugar donde se lleva a cabo el debate: **
 
-Resultado de la votación: 
+En los issues adjuntos a ésta misma votación, y en su caso en los relativos al objeto del debate donde se inició.
+
+**Resultado de la votación: **
 
 12 a favor y ninguno en contra. Javier es nombrado administrador.
 
