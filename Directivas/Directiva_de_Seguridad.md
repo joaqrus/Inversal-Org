@@ -5,7 +5,7 @@ Un entorno de aprendizaje y experimentación ha de ser seguro para la vida de la
 - No hacerle daño a nada
 - No hacerle daño a nadie, ya sea física, mental o emocionalmente
 
-De igual manera, **en Inversal tratamos la seguridad en todos sus ámbitos como un pilar fundamental dentro de nuestra cultura y como un elemento esencial en sí mismo del conocimiento que se comparte**. Entiende que **tú eres el responsable último de seguir las medidas de seguridad y de hacerlas cumplir. No corras o provoques ningún riesgo innecesario, ni pongas en riesgo a otras personas. Si no sabes hacer realmente algo no te expongas a riesgos cuando no sea necesario, tómate tu tiempo, consulta primero y aprende.**
+De igual manera, **en Inversal tratamos la seguridad en todos sus ámbitos como un pilar fundamental dentro de nuestra cultura y como un elemento esencial en sí mismo del conocimiento que se comparte**. Entiende que **tú eres el responsable último de seguir las medidas de seguridad y de hacerlas cumplir. No corras o provoques ningún riesgo innecesario para ti mismo, ni para otras personas.** Si no sabes hacer realmente algo no te expongas a riesgos cuando no sea necesario, tómate tu tiempo, consulta primero y aprende.
 
 **En el caso de que se detecte algún riesgo grave para la vida o la salud de las personas intervinientes, el proyecto deberá ser suspendido de inmediato.** Recuerda que evitar los accidentes es responsabilidad de todos, también la tuya. **Los socios que sean sorprendidos llevando a cabo actuaciones deliberadas que pudieran ser consideradas peligrosas de forma grave para la vida o la salud de las personas serán considerados inmediatamente expulsados de la asociación.**
 
