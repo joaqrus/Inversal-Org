@@ -13,4 +13,7 @@ Durante el periodo del lunes 23 de mayo al 1 de junio de 2016 puedes realizar un
 ||||
 ||||
 
+
+
+
 Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes realizar un `commit` y exponer tus argumentos para el mismo en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/) o a [esta otra](https://guides.github.com/features/mastering-markdown/). Cualquier contribución positiva es bienvenida ¡Te esperamos!
