@@ -14,7 +14,7 @@ Código Postal: ................................................................
 
 Teléfono: ...................................................... Fax: ......................................... E-Mail: ................................................................................
 
-Solicita formar parte como socio de la misma a la Asociación Inversal (Nº de Registro ##), CIF ##, fundada en el año 2016, con domicilio social en Calle San Nicolas 6 – 4 de Sevilla y email ##, contando con el apoyo del socio nº............. y del socio nº..................., y habiendo participado, al menos, en los proyectos nº................ y nº....................
+Solicita adherirse y formar parte como socio de la misma, a la Asociación Inversal (Nº de Registro ##), CIF ##, fundada en el año 2016, con domicilio social en Calle San Nicolas 6 – 4 de Sevilla y email ##, contando con el apoyo del socio nº............. y del socio nº..................., y habiendo participado, al menos, en los proyectos nº................ y nº....................
 
 
 **SEGUNDO**.- Configuración Marco
@@ -56,7 +56,7 @@ Para la resolución de los conflictos que pudieran surgir como consecuencia del 
 
 **OCTAVO**.- Declaración: 
 
-De esta forma, reconociendo tener capacidad para obligarse, tanto para el pago de las cuotas como para el cumplimiento de los términos de Inversal, que se lleva a efecto el presente contrato social en cumplimiento de lo previsto en el artículo 32 de los Estatutos. Leído que ha sido el presente contrato por las partes, que se extiende por duplicado, lo firman en prueba de conformidad.
+De esta forma, reconociendo tener capacidad para obligarse, tanto para el pago de las cuotas como para el cumplimiento de los términos de Inversal, que se lleva a efecto el presente contrato social en cumplimiento de lo previsto en el artículo 32 de los Estatutos, solicita de forma libre y razonada su admisión. Leído que ha sido el presente contrato por las partes, que se extiende por duplicado, lo firman en prueba de conformidad.
 
 
 En ......................................... a ........... de .......................... de ............
