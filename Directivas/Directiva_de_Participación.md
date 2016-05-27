@@ -1,7 +1,7 @@
-##DIRECTIVA DE ADMINISTRADORES
+##DIRECTIVA DE PARTICIPACION
 
 ##Participantes
-Cualquier persona puede participar en Inversal siempre y cuando lo haga respetando sus Pilares y Términos. [¡Léelos](https://github.com/inversal/Inversal-Org) y [bienvenida](https://github.com/inversal/Inversal-Org/blob/master/Bienvenida_a_Inversal.md)! 
+Cualquier persona puede participar en Inversal siempre y cuando lo haga respetando sus Pilares y Términos. [¡Léelos](https://github.com/inversal/Inversal-Org) y considérate [bienvenida](https://github.com/inversal/Inversal-Org/blob/master/Bienvenida_a_Inversal.md)! 
 
 ##Socios
 
