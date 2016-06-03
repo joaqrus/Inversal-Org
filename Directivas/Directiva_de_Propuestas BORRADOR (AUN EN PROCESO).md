@@ -1,5 +1,10 @@
 ####DIRECTIVA DE PROPUESTAS
 
+FALTA Budgeting decisions. 
+FALTA Split, reorder, markdownfy.
+
+PREBORRADOR. EDICION EN CURSO.
+
 Los términos ##Términos de la Asociación Inversal están basados en sus pilares fundacionales ##Pilares y han sido desarrollados por la comunidad de Inversal para describir las mejores prácticas, clarificar principios, resolver conflictos y, en general, favorecer su fin asociativo ##Bienvenido. Así, en su funcionamiento interno, Inversal es un proyecto autónomo dirigido por su comunidad. Sin embargo, su consenso no es inmutable y estático. Continuamente se toman decisiones en los proyectos. Asimismo, nosotros cambiamos y nuestro entorno también por lo que, a veces, es razonable y necesario que la comunidad modifique o cree nuevos términos en relación con nuevos campos de actuación.
 
 Si quieres proponer o cambiar el sentido de una directiva o convención, es muy importante que abras primero un asunto (issue) en aquéllos términos que se verían afectados, exponiendo de forma clara y concisa tu propuesta y el sentido de la misma. Editar un término directamente para apoyar tu propio argumento puede ser visto como un intento de manipular o sabotear Inversal ##PBF. Explicar las razones por la que es ahora necesaria, o las razones que motivaron el consenso anterior y aquéllas que apoyan el nuevo, puede servirte de ayuda. Recuerda que es importante abrir el asunto (issue) para dar lugar al debate. La creencia en la habilidad de decidir juntos es el componente clave de las decisiones por consenso. Asegurar que el resto de los miembros pueda participar de ese consenso posibilita la diversidad, que tan provechosa puede resultar para el conocimiento común.
