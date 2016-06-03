@@ -23,7 +23,7 @@ En ejecución
 
 .0.1. Estudio, comparativa y analisis fenomenologico 100 %
 
-.0.2. Fin asociativo. Que es y que no es Inversal 100%
+.0.2. Fin asociativo. Qué es y qué no es Inversal 100%
 
 .0.3. Reglamentacion. Bienvenida y Pilares 100%
 
@@ -78,9 +78,9 @@ En ejecución
 
 **_Hitos que hacen falta_**
 
-0. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
+0. Que capital tiene la asociacion? Hace falta para los Estatutos. Contabilidad (ERP, Odoo o Github). Libro mayor y libro diario. CC. Calendario de accesos. Process to audit incomes and expenditures and Budget Decisions. Startup costs and fixed costs (Appendix). 
 
-1. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse. Dónde esta el formulario de Slack? Pegarlo en Bienvenida, Directiva de DP, Directiva de Participacion, Pilares, PBF. Concretar un dia a la semana y hora a la que se acuda regularmente para atención al público y general. Email de inversal.com o protonmail.com con auto-resend a socios. Línea telefónica en la nave?
+1. Canales de comunicación? Email, phone. Un día un par de horas fijas para que la gente pueda pasarse. Dónde esta el formulario de Slack? Pegarlo en Bienvenida, Directiva de DP, Directiva de Participacion, Pilares, PBF. Concretar un dia a la semana y hora a la que se acuda regularmente para atención al público y general. Email de inversal.com o protonmail.com con auto-resend a socios. Línea telefónica en la nave?
 
 2. Automatización del control de accesos. 
 
@@ -96,7 +96,7 @@ Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSS
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
-`Un ordenador, y muchas ganas de querer escribir y leer código en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo mínimo donde podamos interactuar máquinas de estados infinitos llenas de bugs y conectarlo, en mitad de producción, al kernel social, el cual utiliza una gran diversidad de protocolos, entre los que puede haber algunos hasta con cientos de años de antiguedad.` ( LoL )
+<s>`Un ordenador, y muchas ganas de querer escribir y leer código en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo mínimo donde podamos interactuar máquinas de estados infinitos llenas de bugs y conectarlo, en mitad de producción, al kernel social, el cual utiliza una gran diversidad de protocolos, entre los que puede haber algunos hasta con cientos de años de antiguedad.`</s> ( LoL )
 
 Un ordenador con conexión a Internet y una cuenta de Github. Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes realizar un `commit` y exponer tus argumentos para el mismo en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/), o a [esta otra](https://guides.github.com/features/mastering-markdown/), o utilizar [este editor](https://stackedit.io/editor). Cualquier contribución positiva es bienvenida ¡Te esperamos!
 
