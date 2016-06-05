@@ -8,7 +8,7 @@ Durante el periodo del lunes 23 de mayo al 1 de junio de 2016 puedes realizar un
 | ------------- | ------------- | ------------- |
 |_0_|_Ejemplo_|_Domingo 5 de junio de 17:00 a 19:00_|
 |1|Jmiehau|Jueves 2 de junio 19:00 a 21:00|
-|2|Abueesp|Jueves 2 de junio 19:00 a 21:00|
+|2|Abueesp|Viernes 3 de junio 19:00 a 21:00|
 |3|Mrgastoso|Viernes 3 de junio 17:00 a 19:00|
 |4|Wimel|Viernes 3 de Junio 17:00 a 21:00|
 |5|Melozo|Viernes 3 de Junio 17:00 a 19:00|
