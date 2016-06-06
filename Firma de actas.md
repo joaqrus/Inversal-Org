@@ -7,8 +7,8 @@ Durante el periodo del lunes 23 de mayo al 1 de junio de 2016 puedes realizar un
 |Número|Nombre o pseudónimo|Fecha elegida|
 | ------------- | ------------- | ------------- |
 |_0_|_Ejemplo_|_Domingo 5 de junio de 17:00 a 19:00_|
-|1|Jmiehau|Viernes 3 de junio 19:00 a 21:00|
-|2|Abueesp|Viernes 3 de junio 19:00 a 21:00|
+|1|Jmiehau|Jueves 2 de junio 19:00 a 21:00|
+|2|Abueesp|Jueves 2 de junio 19:00 a 21:00|
 |3|Mrgastoso|Viernes 3 de junio 17:00 a 19:00|
 |4|Wimel|Viernes 3 de Junio 17:00 a 21:00|
 |5|Melozo|Viernes 3 de Junio 17:00 a 19:00|
@@ -17,4 +17,4 @@ Durante el periodo del lunes 23 de mayo al 1 de junio de 2016 puedes realizar un
 |8|twajoseluis|Domingo 5 de Junio 17:00 a 19:00|
 ||||
 
-> Si no sabes usar Github o no tienes una cuenta todavía recuerda que [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes debatir cualquier cuestión o inscribirte realizando un `commit` y exponiendo tus argumentos para el mismo en un *issue*, o en la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/) o a [esta otra](https://guides.github.com/features/mastering-markdown/). Cualquier contribución positiva es bienvenida ¡Te esperamos!
+> Si no sabes usar Github o no tienes una cuenta todavía recuerda que [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes debatir cualquier cuestión o inscribirte realizando un `commit` y exponiendo tus argumentos para el mismo en un *issue*, o en la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/), o a [esta otra](https://guides.github.com/features/mastering-markdown/), o utilizar [este editor](https://stackedit.io/editor). Cualquier contribución positiva es bienvenida ¡Te esperamos!
