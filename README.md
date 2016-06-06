@@ -106,4 +106,4 @@ Melozo (Gracias por el texto del blog!) Fredy (Gracias por el link!)
 
 **Licencias bajo las que se publica el contenido del proyecto**: 
 
-Creative Commons BY-NC-SA 4.0.
+Creative Commons BY-NC-SA 4.0
