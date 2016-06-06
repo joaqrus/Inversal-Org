@@ -69,7 +69,7 @@ En ejecución
 
 `.6. Licencia de apertura 10%`
 
-`.7. Contabilidad 1%`
+`.7. Contabilidad 2%`
 
 `.8. Inscripcion AEPD 10%`
 
