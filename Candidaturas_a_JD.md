@@ -15,7 +15,7 @@ Finalizada esta semana, se abrirá una votación abierta donde todos los miembro
 |Número de socio|Nombre real|Labor a la que se postula|Motivaciones|
 | ------------- | ------------- | ------------- | ------------- |
 |_0_|_Ejemplo Apellido Apellido_|_Tesorera_|_Me siento identificada los Pilares y Directivas de Inversal y cuento con conocimientos en [análisis presupuestario](http://pastebin.com/Rjdvur48) y experiencia en [nuevas finanzas](https://etherscan.io/txsInternal?a=0xbb9bc244d798123fde783fcc1c72d3bb8c189413&p=84). Me comprometo a cumplir mi función con diligencia y a asumir las obligaciones que conlleva, siendo proactiva y manteniéndome accesible para actuar allá donde pudiera ser necesaria._|
-|  |  |  |  |
+| _5_ | @melozo | @all |  Me presento a cualquier puesto y asumo las responsabilidades necesarias para que esta asociación salga adelante |
 |  |  |  |  |
 |  |  |  |  |
 
