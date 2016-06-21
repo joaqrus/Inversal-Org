@@ -9,7 +9,7 @@ De igual manera, **en Inversal tratamos la seguridad en todos sus ámbitos como 
 
 **En el caso de que se detecte algún riesgo grave para la vida o la salud de las personas intervinientes, el proyecto deberá ser suspendido de inmediato.** Recuerda que evitar los accidentes es responsabilidad de todos, también la tuya. **Los socios que sean sorprendidos llevando a cabo actuaciones deliberadas que pudieran ser consideradas peligrosas de forma grave para la vida o la salud de las personas serán considerados inmediatamente expulsados de la asociación.**
 
-Sin embargo, vivir es un riesgo, y más allá de nuestras imprudencias aún continúan existiendo riesgos objetivos. Precisamente **para que estos riesgos puedan ser conocidos por todos han de especificarse en la plantilla de proyecto ##PlantilladeProyecto de forma concreta y clara, al menos, las siguientes cuestiones:
+Sin embargo, vivir es un riesgo, y más allá de nuestras imprudencias aún continúan existiendo riesgos objetivos. Precisamente **para que estos riesgos puedan ser conocidos por todos, han de especificarse en la plantilla de proyecto ##PlantilladeProyecto de forma concreta y clara**, al menos, las siguientes cuestiones:
 
 - **Breve descripción, lugares, fechas, y esquema de las actividades, haciendo hincapié en sus posibles riesgos y medidas de seguridad**. Esto no sólo permite proteger la vida y la salud de quienes participan, sino que también lo hace auditable y facilita poder compartir el proyecto y replicarlo, así como ayudar a mejorarlo y adaptarlo dentro de Inversal.
 
