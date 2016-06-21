@@ -1,4 +1,4 @@
-##Votación JD
+##Candidaturas a JD
 ¡Ya ha pasado el mes de reflexión desde la firma de nuestras [Actas Fundacionales](https://github.com/inversal/Inversal-Org/blob/master/meta.Inversal.LINK/Firma%20de%20actas.md)! 
 
 Cómo pasa el tiempo ¿verdad? En Inversal lo principal es crear y compartir proyectos[, no hacer votaciones](https://github.com/inversal/Inversal-Org/blob/master/Lo_que_Inversal_no_es.md#inversal-no-es-un-experimento-de-liberalismo-anarqu%C3%ADa-o-democracia). Si tras este primer mes sigues en la brecha, además de crear y compartir proyectos ¿Te apetecería que tu nombre estuviera en el Registro de Asociaciones de la Junta de Andalucía para asumir formalmente las responsabilidades estatutarias correspondientes y representar a Inversal de cara a la sociedad?
